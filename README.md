@@ -22,6 +22,7 @@ Here is a tracker of the problems I have solved so far:
 | **IPRB** | Mendel's First Law | [`IPRB.py`](solutions/IPRB.py) |
 | **PROT** | Translating RNA into Protein | [`PROT.py`](solutions/PROT.py) |
 | **SUBS** | 	Finding a Motif in DNA | [`SUBS.py`](solutions/SUBS.py) |
+| **CONS** | 	Consensus and Profile | [`CONS.py`](solutions/CONS.py) |
 
 ## 🛠️ Usage
 To run any of the solutions, simply execute the script via terminal. Most scripts are designed to read from standard input or a sample text file.
