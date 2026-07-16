@@ -23,6 +23,16 @@ Here is a tracker of the problems I have solved so far:
 | **PROT** | Translating RNA into Protein | [`PROT.py`](solutions/PROT.py) |
 | **SUBS** | 	Finding a Motif in DNA | [`SUBS.py`](solutions/SUBS.py) |
 | **CONS** | 	Consensus and Profile | [`CONS.py`](solutions/CONS.py) |
+| **FIBD** | 	Mortal Fibonacci Rabbits | [`FIBD.py`](solutions/FIBD.py) |
+| **GRPH** | 	Overlap Graphs | [`GRPH.py`](solutions/GRPH.py) |
+| **IEV** | 	Calculating Expected Offspring | [`IEV.py`](solutions/IEV.py) |
+| **LCSM** | 	Finding a Shared Motif | [`LCSM.py`](solutions/LCSM.py) |
+| **LIA** | 	Independent Alleles | [`LIA.py`](solutions/LIA.py) |
+| **MPRT** | 	Finding a Protein Motif | [`MPRT.py`](solutions/MPRT.py) |
+| **MRNA** | 	Inferring mRNA from Protein | [`MRNA.py`](solutions/MRNA.py) |
+| **ORF** | 	Open Reading Frames | [`ORF.py`](solutions/ORF.py) |
+| **PERM** | 	Enumerating Gene Orders | [`PERM.py`](solutions/PERM.py) |
+| **PRTM** | 	Calculating Protein Mass | [`PRTM.py`](solutions/PRTM.py) |
 
 ## 🛠️ Usage
 To run any of the solutions, simply execute the script via terminal. Most scripts are designed to read from standard input or a sample text file.
