@@ -33,6 +33,10 @@ Here is a tracker of the problems I have solved so far:
 | **ORF** | 	Open Reading Frames | [`ORF.py`](solutions/ORF.py) |
 | **PERM** | 	Enumerating Gene Orders | [`PERM.py`](solutions/PERM.py) |
 | **PRTM** | 	Calculating Protein Mass | [`PRTM.py`](solutions/PRTM.py) |
+| **REVP** | 	Locating Restriction Sites | [`REVP.py`](solutions/REVP.py) |
+| **SPLC** | 	RNA Splicing | [`SPLC.py`](solutions/SPLC.py) |
+| **LEXF** | 	Enumerating k-mers Lexicographically | [`LEXF.py`](solutions/LEXF.py) |
+| **LGIS** | 	Longest Increasing Subsequence | [`LGIS.py`](solutions/LGIS.py) |
 
 ## 🛠️ Usage
 To run any of the solutions, simply execute the script via terminal. Most scripts are designed to read from standard input or a sample text file.
